@@ -25,6 +25,8 @@ const imgUrl = "https://dog.ceo/api/breeds/image/random/4"
 
 Add JavaScript that:
 
+document.
+
 - on page load, fetches the images using the url above ⬆️
 - parses the response as `JSON`
 - adds image elements to the DOM **for each** 🤔 image in the array
